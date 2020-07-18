@@ -1,0 +1,46 @@
+.link1:hover{
+background-color: red;
+padding: 10px 10px 10px 10px;
+}
+.link2:hover{
+background-color: red;
+padding: 10px 10px 10px 10px;
+}
+.link3:hover{
+background-color: red;
+padding: 10px 10px 10px 10px;
+}
+.link4:hover{
+ background-color: red;
+padding: 10px 10px 10px 10px;
+}
+.link1{
+    padding: 10px;
+    color: white;
+}
+.link2{
+    padding: 10px;
+    color: white;
+}
+.link3{
+    padding: 10px;
+    color: white;
+}
+.link4{
+    padding: 10px;
+    color: white;
+}
+h2{
+    text-align: center;
+    color: green;
+}
+h4{
+    text-align: center;
+    color: green;
+}
+body{
+    background-color: black;
+}
+p{
+    color: red;
+}
